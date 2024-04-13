@@ -1,0 +1,426 @@
+{"Questions" : [
+    {
+        "Question": "Would you rather live in a bustling city or a quiet countryside?",
+        "Answer1": "City",
+        "Answer2": "Countryside"
+    },
+    {
+        "Question": "Would you rather have endless summer or perpetual winter?",
+        "Answer1": "Endless summer",
+        "Answer2": "Perpetual winter"
+    },
+    {
+        "Question": "Pizza or pasta?",
+        "Answer1": "Pizza",
+        "Answer2": "Pasta"
+    },
+    {
+        "Question": "Would you rather travel to the past or the future?",
+        "Answer1": "Past",
+        "Answer2": "Future"
+    },
+    {
+        "Question": "Beach vacation or mountain retreat?",
+        "Answer1": "Beach vacation",
+        "Answer2": "Mountain retreat"
+    },
+    {
+        "Question": "Would you rather have the ability to fly or be invisible?",
+        "Answer1": "Fly",
+        "Answer2": "Invisible"
+    },
+    {
+        "Question": "Would you rather explore outer space or the depths of the ocean?",
+        "Answer1": "Outer space",
+        "Answer2": "Depths of the ocean"
+    },
+    {
+        "Question": "Movie night in or night out at the theater?",
+        "Answer1": "Night in",
+        "Answer2": "Night out"
+    },
+    {
+        "Question": "Would you rather have the power of super strength or super speed?",
+        "Answer1": "Super strength",
+        "Answer2": "Super speed"
+    },
+    {
+        "Question": "Early bird or night owl?",
+        "Answer1": "Early bird",
+        "Answer2": "Night owl"
+    },
+    {
+        "Question": "Would you rather have a teleportation ability or time travel ability?",
+        "Answer1": "Teleportation",
+        "Answer2": "Time travel"
+    },
+    {
+        "Question": "Would you rather have the power of telekinesis or mind reading?",
+        "Answer1": "Telekinesis",
+        "Answer2": "Mind reading"
+    },
+    {
+        "Question": "Book or movie?",
+        "Answer1": "Book",
+        "Answer2": "Movie"
+    },
+    {
+        "Question": "Summer or winter Olympics?",
+        "Answer1": "Summer Olympics",
+        "Answer2": "Winter Olympics"
+    },
+    {
+        "Question": "Would you rather have unlimited money or unlimited time?",
+        "Answer1": "Unlimited money",
+        "Answer2": "Unlimited time"
+    },
+    {
+        "Question": "Game night or karaoke night?",
+        "Answer1": "Game night",
+        "Answer2": "Karaoke night"
+    },
+    {
+        "Question": "Do you prefer coffee or tea?",
+        "Answer1": "Coffee",
+        "Answer2": "Tea"
+    },
+    {
+        "Question": "Do you like to read fiction or non-fiction books?",
+        "Answer1": "Fiction",
+        "Answer2": "Non-fiction"
+    },
+    {
+        "Question": "Are you more of a dog person or a cat person?",
+        "Answer1": "Dog person",
+        "Answer2": "Cat person"
+    },
+    {
+        "Question": "Do you prefer sunny days or rainy days?",
+        "Answer1": "Sunny days",
+        "Answer2": "Rainy days"
+    },
+    {
+        "Question": "Are you someone who enjoys cooking at home or dining out?",
+        "Answer1": "Cooking at home",
+        "Answer2": "Dining out"
+    },
+    {
+        "Question": "Do you like action-packed movies or romantic comedies?",
+        "Answer1": "Action-packed movies",
+        "Answer2": "Romantic comedies"
+    },
+    {
+        "Question": "Are you a fan of sweet or savory snacks?",
+        "Answer1": "Sweet snacks",
+        "Answer2": "Savory snacks"
+    },
+    {
+        "Question": "Do you enjoy listening to music while working or prefer silence?",
+        "Answer1": "Listening to music",
+        "Answer2": "Silence"
+    },
+    {
+        "Question": "Are you someone who prefers to plan everything in advance or go with the flow?",
+        "Answer1": "Plan everything in advance",
+        "Answer2": "Go with the flow"
+    },
+    {
+        "Question": "Socks with sandals or crocs with socks?",
+        "Answer1": "Socks with sandals",
+        "Answer2": "Crocs with socks"
+    },
+    {
+        "Question": "Would you rather have the ability to fly but only at walking speed or run as fast as a cheetah but only for 10 seconds at a time?",
+        "Answer1": "Fly at walking speed",
+        "Answer2": "Run as fast as a cheetah for 10 seconds"
+    },
+	{
+        "Question": "Always have to sing instead of speak or dance instead of walk?",
+        "Answer1": "Sing instead of speak",
+        "Answer2": "Dance instead of walk"
+    },
+    {
+        "Question": "Would you rather have edible spaghetti hair that regrows every night or sweat maple syrup?",
+        "Answer1": "Edible spaghetti hair",
+        "Answer2": "Sweat maple syrup"
+    },
+    {
+        "Question": "Wear a cape everywhere you go or always wear a top hat?",
+        "Answer1": "Cape everywhere",
+        "Answer2": "Always wear a top hat"
+    },
+    {
+        "Question": "Would you rather have fingers as long as your legs or legs as long as your fingers?",
+        "Answer1": "Fingers as long as legs",
+        "Answer2": "Legs as long as fingers"
+    },
+    {
+        "Question": "Always have to whisper or always have to shout?",
+        "Answer1": "Always have to whisper",
+        "Answer2": "Always have to shout"
+    },
+    {
+        "Question": "Would you rather have a pet dragon or a pet unicorn?",
+        "Answer1": "Pet dragon",
+        "Answer2": "Pet unicorn"
+    },
+    {
+        "Question": "Would you rather have the ability to talk to plants or control the weather?",
+        "Answer1": "Talk to plants",
+        "Answer2": "Control the weather"
+    },
+    {
+        "Question": "Eat a spoonful of wasabi every day or a whole raw onion every week?",
+        "Answer1": "Eat wasabi every day",
+        "Answer2": "Eat a raw onion every week"
+    },
+    {
+        "Question": "Would you rather have a rewind button for your life or a pause button?",
+        "Answer1": "Rewind button",
+        "Answer2": "Pause button"
+    },
+    {
+        "Question": "Have the ability to teleport but always end up 10 feet above the ground or be able to breathe underwater but only in a bathtub?",
+        "Answer1": "Teleport but 10 feet above ground",
+        "Answer2": "Breathe underwater but only in a bathtub"
+    },
+    {
+        "Question": "Would you rather have an extra arm or an extra leg?",
+        "Answer1": "Extra arm",
+        "Answer2": "Extra leg"
+    },
+    {
+        "Question": "Have a permanently itchy nose or a constantly dripping nose?",
+        "Answer1": "Permanently itchy nose",
+        "Answer2": "Constantly dripping nose"
+    },
+    {
+        "Question": "Would you rather have a tail like a cat or ears like a rabbit?",
+        "Answer1": "Tail like a cat",
+        "Answer2": "Ears like a rabbit"
+    },
+    {
+        "Question": "Speak every language fluently but only in rhymes or communicate with animals but only through interpretive dance?",
+        "Answer1": "Speak every language in rhymes",
+        "Answer2": "Communicate with animals through interpretive dance"
+    },
+    {
+        "Question": "Always have a clown following you or always have a chicken riding on your shoulder?",
+        "Answer1": "Always have a clown following",
+        "Answer2": "Always have a chicken riding on your shoulder"
+    },
+    {
+        "Question": "Would you rather have x-ray vision but can't turn it off or have the ability to see 10 seconds into the future but can't change it?",
+        "Answer1": "X-ray vision",
+        "Answer2": "See 10 seconds into the future"
+    },
+    {
+        "Question": "Would you rather never be able to use social media again or never be able to watch another movie or TV show?",
+        "Answer1": "Never use social media again",
+        "Answer2": "Never watch another movie or TV show"
+    },
+    {
+        "Question": "Would you rather have the ability to breathe underwater but only in a bathtub or be able to talk to plants but only during a full moon?",
+        "Answer1": "Breathe underwater but only in a bathtub",
+        "Answer2": "Talk to plants but only during a full moon"
+    },
+    {
+        "Question": "Would you rather only be able to whisper for the rest of your life or only be able to shout?",
+        "Answer1": "Only be able to whisper",
+        "Answer2": "Only be able to shout"
+    },
+    {
+        "Question": "Would you rather have unlimited money but live in a world without books or have unlimited books but live in a world without money?",
+        "Answer1": "Unlimited money but no books",
+        "Answer2": "Unlimited books but no money"
+    },
+    {
+        "Question": "Would you rather live in a world where everyone's emotions are visible above their heads or where everyone's thoughts are audible?",
+        "Answer1": "Emotions visible above heads",
+        "Answer2": "Thoughts audible"
+    },
+    {
+        "Question": "Would you rather be able to control fire or water?",
+        "Answer1": "Control fire",
+        "Answer2": "Control water"
+    },
+    {
+        "Question": "Would you rather have the power of super strength but only when you're asleep or the power of flight but only when you're awake?",
+        "Answer1": "Super strength when asleep",
+        "Answer2": "Flight when awake"
+    },
+    {
+        "Question": "Would you rather always have to wear socks with sandals or always have to wear your clothes inside out?",
+        "Answer1": "Wear socks with sandals",
+        "Answer2": "Wear clothes inside out"
+    },
+    {
+        "Question": "Would you rather have the ability to talk to animals but they only speak in riddles or be able to communicate with plants but they only sing show tunes?",
+        "Answer1": "Talk to animals speaking in riddles",
+        "Answer2": "Communicate with plants singing show tunes"
+    },
+    {
+        "Question": "Would you rather have to eat everything with chopsticks or with your hands?",
+        "Answer1": "Eat everything with chopsticks",
+        "Answer2": "Eat everything with your hands"
+    },
+    {
+        "Question": "Would you rather be able to control the weather but only in your immediate vicinity or be able to control time but only by one hour forward or backward?",
+        "Answer1": "Control weather in immediate vicinity",
+        "Answer2": "Control time by one hour forward or backward"
+    },
+{
+        "Question": "Would you rather have the ability to read minds but everyone can hear your thoughts too or be able to turn invisible but you can't control when it happens?",
+        "Answer1": "Read minds but everyone can hear your thoughts",
+        "Answer2": "Turn invisible but can't control when"
+    },
+    {
+        "Question": "Would you rather have the ability to change the color of anything you touch or the ability to make any object small enough to fit in your pocket?",
+        "Answer1": "Change the color of anything you touch",
+        "Answer2": "Make any object small enough to fit in your pocket"
+    },
+    {
+        "Question": "Would you rather have your dream job but never have time for personal relationships or have a job you hate but have a loving family and friends?",
+        "Answer1": "Dream job but never have time for personal relationships",
+        "Answer2": "Hate your job but have a loving family and friends"
+    },
+    {
+        "Question": "Would you rather always have to wear a clown wig or a giant foam cowboy hat?",
+        "Answer1": "Always wear a clown wig",
+        "Answer2": "Always wear a giant foam cowboy hat"
+    },
+    {
+        "Question": "Would you rather have the ability to speak to technology (computers, phones, etc.) but they're all sarcastic or be able to understand animals but they only speak in puns?",
+        "Answer1": "Speak to technology but they're all sarcastic",
+        "Answer2": "Understand animals but they only speak in puns"
+    },
+    {
+        "Question": "Would you rather have to eat dessert before every meal or never eat dessert again?",
+        "Answer1": "Eat dessert before every meal",
+        "Answer2": "Never eat dessert again"
+    },
+    {
+        "Question": "Would you rather be able to control your dreams but always have nightmares or have no control over your dreams but always have pleasant dreams?",
+        "Answer1": "Control dreams but always have nightmares",
+        "Answer2": "No control over dreams but always have pleasant dreams"
+    },
+    {
+        "Question": "Would you rather have the ability to talk to ghosts but they're always complaining about the afterlife or be able to see into the future but only five minutes ahead?",
+        "Answer1": "Talk to ghosts but they're always complaining",
+        "Answer2": "See into the future but only five minutes ahead"
+    },
+    {
+        "Question": "Would you rather have the ability to travel anywhere in the world instantaneously but you always arrive naked or be able to fly but only two feet off the ground?",
+        "Answer1": "Travel anywhere but always arrive naked",
+        "Answer2": "Fly but only two feet off the ground"
+    },
+    {
+        "Question": "Would you rather have the ability to breathe fire but burn your tongue every time?",
+        "Answer1": "Breathe fire but burn tongue every time",
+        "Answer2": "Not have the ability to breathe fire"
+    },
+    {
+        "Question": "Are you more likely to befriend a sentient robot or a time-traveling pigeon?",
+        "Answer1": "Befriend a sentient robot",
+        "Answer2": "Befriend a time-traveling pigeon"
+    },
+    {
+        "Question": "Are you the type to wear socks on your hands or gloves on your feet?",
+        "Answer1": "Wear socks on your hands",
+        "Answer2": "Wear gloves on your feet"
+    },
+    {
+        "Question": "Are you more intrigued by the idea of living in a house shaped like a giant avocado or a castle made entirely of cheese?",
+        "Answer1": "Living in a house shaped like a giant avocado",
+        "Answer2": "Living in a castle made entirely of cheese"
+    },{
+        "Question": "Are you more likely to survive in a world where gravity occasionally reverses or where objects randomly turn into rubber ducks?",
+        "Answer1": "Gravity occasionally reverses",
+        "Answer2": "Objects randomly turn into rubber ducks"
+    },
+    {
+        "Question": "Are you someone who would prefer to communicate through interpretive dance or Morse code?",
+        "Answer1": "Communicate through interpretive dance",
+        "Answer2": "Communicate through Morse code"
+    },
+    {
+        "Question": "Are you the type to have a pet octopus that can juggle or a pet giraffe that can tap dance?",
+        "Answer1": "Pet octopus that can juggle",
+        "Answer2": "Pet giraffe that can tap dance"
+    },
+    {
+        "Question": "Are you more likely to find yourself trapped in a giant bubble filled with tapioca pudding or a maze made of jellybeans?",
+        "Answer1": "Trapped in a giant bubble filled with tapioca pudding",
+        "Answer2": "Trapped in a maze made of jellybeans"
+    },
+    {
+        "Question": "Are you someone who would rather have a third eye that sees into parallel dimensions or a third ear that hears extraterrestrial whispers?",
+        "Answer1": "Have a third eye that sees into parallel dimensions",
+        "Answer2": "Have a third ear that hears extraterrestrial whispers"
+    },
+    {
+        "Question": "Are you the type to ride a skateboard powered by hamsters or a unicycle with jet propulsion?",
+        "Answer1": "Ride a skateboard powered by hamsters",
+        "Answer2": "Ride a unicycle with jet propulsion"
+    },
+    {
+        "Question": "Are you more likely to have a houseplant that recites Shakespeare or a pet rock that predicts the future?",
+        "Answer1": "Have a houseplant that recites Shakespeare",
+        "Answer2": "Have a pet rock that predicts the future"
+    },
+    {
+        "Question": "Are you someone who would rather have a wardrobe that teleports you to random locations or a refrigerator that dispenses endless pizza?",
+        "Answer1": "Have a wardrobe that teleports you to random locations",
+        "Answer2": "Have a refrigerator that dispenses endless pizza"
+    },
+    {
+        "Question": "Are you more intrigued by the idea of having a talking toaster that offers philosophical advice or a sentient toothbrush that tells bad jokes?",
+        "Answer1": "Talking toaster that offers philosophical advice",
+        "Answer2": "Sentient toothbrush that tells bad jokes"
+    },
+    {
+        "Question": "Are you someone who would rather explore an underwater city populated by mermaids or a floating island inhabited by sentient clouds?",
+        "Answer1": "Explore an underwater city populated by mermaids",
+        "Answer2": "Explore a floating island inhabited by sentient clouds"
+    },
+    {
+        "Question": "Would you rather be a whale or a lion?",
+        "Answer1": "Be a whale",
+        "Answer2": "Be a lion"
+    },
+    {
+        "Question": "Would you rather have every traffic light turn green or always have the best parking spot?",
+        "Answer1": "Have every traffic light turn green",
+        "Answer2": "Always have the best parking spot"
+    },
+    {
+        "Question": "Would you rather have slow internet or always forget your passwords?",
+        "Answer1": "Have slow internet",
+        "Answer2": "Always forget your passwords"
+    },
+    {
+        "Question": "Would you rather sail or van life around the world?",
+        "Answer1": "Sail around the world",
+        "Answer2": "Van life around the world"
+    },
+    {
+        "Question": "Would you rather always be two hours early or 20 minutes late?",
+        "Answer1": "Always be two hours early",
+        "Answer2": "Always be 20 minutes late"
+    },
+    {
+        "Question": "Would you rather travel to West-Europe or to East-Europe?",
+        "Answer1": "Travel to West-Europe",
+        "Answer2": "Travel to East-Europe"
+    },
+    {
+        "Question": "Would you rather travel to North-America or to South-America?",
+        "Answer1": "Travel to North-America",
+        "Answer2": "Travel to South-America"
+    },
+    {
+        "Question": "Would you rather travel to Oceania or Asia?",
+        "Answer1": "Travel to Oceania",
+        "Answer2": "Travel to Asia"
+    }
+]}
