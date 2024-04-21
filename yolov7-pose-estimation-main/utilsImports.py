@@ -13,10 +13,10 @@ import pygame
 from threading import Thread
 
 class WebcamStream ():
-        def __init__(self,width: int, height: int):
+        def __init__(self,width: int, height: int, camera: int):
             
             #cv2.CAP_MSMF for newer cameras on windows
-            self.vcap      = cv2.VideoCapture(1,cv2.CAP_DSHOW)
+            self.vcap      = cv2.VideoCapture(camera,cv2.CAP_DSHOW)
             self.vcap.set(cv2.CAP_PROP_FRAME_WIDTH,width)
             self.vcap.set(cv2.CAP_PROP_FRAME_HEIGHT,height)
             self.vcap.set(cv2.CAP_PROP_FPS, 60)
@@ -80,7 +80,9 @@ class Baloon(pygame.sprite.Sprite):
                 self.dir = (collision[1] * 3.5)    
                 pygame.event.post(pygame.event.Event(event, value=collision[2].id))
                 break
-                  
+    def draw(self, screen):       
+        screen.blit(pygame.transform.scale(self.image,(100,100)), self.pos)
+        
 class Player(pygame.sprite.Sprite):
 
   def __init__(self, screen, startpos, angle,dis, Left,Right):
